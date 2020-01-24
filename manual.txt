@@ -1,0 +1,4 @@
+json-server --watch db.json --port 3004
+
+
+sudo chmod 777 -R name_file/folder

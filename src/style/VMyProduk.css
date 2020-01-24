@@ -1,0 +1,10 @@
+.hapus{
+	position: relative;
+	width: 110%;
+	top: -120px;
+	right: 10px;
+}
+
+.hapus #btn-pill{
+	background-color: red;
+}

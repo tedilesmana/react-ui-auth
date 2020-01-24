@@ -1,0 +1,21 @@
+#notifikasi .img-notif{
+}
+
+#notifikasi img{
+	height: 200px;
+	width: 200px;
+}
+
+.btn-notif{
+	float: left;
+}
+
+.c-icon{
+	position: absolute;
+	bottom: 40px;
+	right: 100px;
+}
+
+#desk-notif{
+	height: 282px;
+}

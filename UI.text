@@ -1,0 +1,4 @@
+-untuk content sudah ngambil dari db.json jadi harus run json dulu
+-untuk upload ada di = menu upload produk baru
+-untuk mengelola data produk edit & hapus ada di = menu my produk
+-untuk tampilan all produk ada di = menu home

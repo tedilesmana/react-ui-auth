@@ -1,0 +1,29 @@
+#btn-pill{
+	background-color: green;
+	width: 40%;
+	border-radius: 20px 0 0 20px;
+	color: white;
+	position: absolute;
+	right: 10px;
+	top: 70%;
+	display: flex;
+	align-items: center;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#btn-pill:hover{
+	opacity: 0.5;
+}
+
+#btn-pill .bg-icon #icon{
+	border: 2px solid white;
+	border-radius: 50%;
+	width: 25px;
+	height: 25px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 5px;
+	font-size: 12px;
+}

@@ -1,0 +1,28 @@
+#search{
+	display: flex;
+}
+
+.brand{
+	font-size: 30px;
+}
+
+#search .search input{
+	width: 100%;
+}
+
+.text-icon{
+	font-size: 12px;
+	text-align: center;
+}
+
+.label-admin{
+	position: absolute;
+	bottom: -20px;
+}
+
+#menu-admin{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	position: relative;
+}
